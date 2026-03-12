@@ -1,6 +1,6 @@
 ## my name is christian nguyens
 im a complete beginner in the CS world
-my first project is this personal github website: https://christiannguyens.github.io/cnguyens/
+# my first project is this personal github website: https://christiannguyens.github.io/cnguyens/
 ## i am an incoming freshman at the Washington University in St. Louis
 i am majoring in business + computer science (BUCS)
 ## you can reach me thru my linkedin
