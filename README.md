@@ -1,4 +1,9 @@
-## Hi there 👋
+## my name is christian nguyens
+## im a complete beginner in the CS world
+## i am an incoming freshman at the Washington University in St. Louis and i am majoring in business + computer science (BUCS)
+## any advice would be very appreciate
+## you can reach me thru my linkedin
+## or email me: nguyens@wustl.edu
 
 <!--
 **christiannguyens/christiannguyens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
