@@ -1,5 +1,5 @@
 # my name is christian nguyens
-# i am an incoming freshman at Washington University in St. Louis
+# i am a freshman at Washington University in St. Louis
 i am majoring in business + computer science (BUCS)
 ## you can reach me thru my [linkedin](www.linkedin.com/in/christian-nguyens-04965a233)
 
