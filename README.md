@@ -1,6 +1,6 @@
 # my name is christian nguyens
 # i am a freshman at Washington University in St. Louis
-i am majoring in business + computer science (BUCS)
+# i am majoring in business + computer science (BUCS)
 
 
 <!--
